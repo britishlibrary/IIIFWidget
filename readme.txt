@@ -14,7 +14,7 @@ For an overview of this project please visit http://sanddragon.bl.uk
 	- SanddragonWidgetServer - http://[SanddragonWidget server]/[SanddragonWidget website]/
 	- View1 - [Default JP2 to show, filename without the file extension]
 3. Build the SanddragonWidget application using Java 7 and Maven. Deploy to Tomcat.
-4. Note that if you install the IIFSanddragonWidget on a different server from the SanddragonImageService you will get 
+4. Note that if you install the SanddragonWidget on a different server from the SanddragonImageService you will get 
 	cross site scripting dialog, to avoid this install the SanddragonWidget on the same server as the SanddragonImageService.
 
 //
