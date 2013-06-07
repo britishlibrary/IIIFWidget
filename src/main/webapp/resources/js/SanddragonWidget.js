@@ -179,7 +179,7 @@ var SanddragonWidget = function (viewerName, region, parentView, setSourceIsLand
             }
             else {
                 var imgUrl = ImageServer + image +
-                        "/full/150,/" + rotate + "/native.jpg";
+                        "/full/150,/" + rotate + "/native";
                 overviewImg.setAttribute("src", imgUrl);
             }
             if (!imageOpenedAdded) {
